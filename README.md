@@ -1,0 +1,2 @@
+# AuthManager
+authentication manager
